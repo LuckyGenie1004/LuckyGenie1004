@@ -2,7 +2,7 @@
 
 
 ## Overview
-Hi, I'm Mark Angelo Reyes.
+Hi, I'm Tyler M.
 
 With a passion for building reliable, efficient, and scalable software solutions, I specialize in using C# and the Microsoft technology stack to bring ideas to life. Whether you’re looking for a custom application, API integration, or help modernizing an existing system, I’ve got the expertise to deliver.
 
