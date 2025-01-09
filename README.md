@@ -16,5 +16,3 @@ Hi! I'm a **Full-Stack Developer** from Manila, Philippines, specializing in **C
 - **Tools:** Git, Docker, Azure, Next.js
 
 ---
-
-Thank you for visiting my profile!
