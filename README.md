@@ -1,4 +1,4 @@
-![Coding Workspace](pc.png)
+![Coding Workspace](profile.png)
 
 # **Your Go-To Full-Stack Developer (C#, MERN, MEVN, MEAN)**
 
