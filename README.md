@@ -14,5 +14,3 @@ Hi! I'm a **Full-Stack Developer** from Manila, Philippines, specializing in **C
 - **Backend:** Node.js, Express.js, ASP.NET Core
 - **Databases:** MongoDB, SQL Server
 - **Tools:** Git, Docker, Azure, Next.js
-
----
