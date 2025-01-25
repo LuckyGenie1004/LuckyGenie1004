@@ -1,5 +1,3 @@
-![Coding Workspace](profile.png)
-
 # **Your Go-To Full-Stack Developer (C#, MERN, MEVN, MEAN)**
 
 ## **Introduction**
