@@ -3,16 +3,17 @@
 <div>
 
 ## Hello Everyone, welcome to my profile. I am Full-Stack Developer focused on JS/TS/.NET/Python/Golang.<br/>
-## I am not looking for opportunity. I am your opportunity.<br/>
  
-  - ### 🔥  Desktop App, Blazor MAUI<br/>
-  - ### 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), 
-  - ### 🎆 Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
-  - ### 📱  React Native, Flutter, Android<br/>
-  - ### 💨 Django, Golang<br/>
-  - ### ✨ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify<br/>
-  - ### ⚙  Firebase, Supabase, MongoDB, MySQL, PostgreSQL<br/>
+  - ### ✔ Desktop App, Blazor MAUI<br/>
+  - ### ✔ React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), 
+  - ### ✔ Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
+  - ### ✔ React Native, Flutter, Android<br/>
+  - ### ✔ Django, Golang<br/>
+  - ### ✔ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify<br/>
+  - ### ✔ Firebase, Supabase, MongoDB, MySQL, PostgreSQL<br/>
 </div>
+
+## <center>I am not looking for opportunity. I am your opportunity.</center><br/>
 
 <h2>More about my skillset</h2>
 
