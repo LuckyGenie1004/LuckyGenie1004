@@ -1,6 +1,9 @@
 # Your Go-To Full-Stack Developer - JS/TS/.NET/Golang/Python
 
 <div>
+
+## Hello Everyone, welcome to my profile. I am Full-Stack Developer focused on JS/TS/.NET/Python/Golang.<br/>
+## I am not looking for opportunity. I am your opportunity.<br/>
  
   - ### 🔥  Desktop App, Blazor MAUI<br/>
   - ### 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), 
