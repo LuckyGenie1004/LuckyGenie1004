@@ -1,12 +1,15 @@
 # Your Go-To Full-Stack Developer - Javascript/Typescript/Python/.NET
 
 <div>
-# I am Full-Stack Developer focused on JS/TS/Python/.NET skills is shown in my Title. I am not looking for opportunity. I am your opportunity. Anytime I am available to start immediately.
-  - 🔥 Desktop App, Blazor MAUI<br/>
-  - 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
-  - 📱 React Native, Flutter, Android | Django<br/>
-  - ✨ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify<br/>
-  - ⚙ Firebase, Supabase, MongoDB, MySQL, PostgreSQL<br/>
+## I am Full-Stack Developer focused on JS/TS/.NET/Python/Golang/ skills. I am not looking for opportunity. I am your opportunity. Anytime I am available to start immediately.<br/>
+  
+  - ### 🔥  Desktop App, Blazor MAUI<br/>
+  - ### 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), 
+  - ### 🎆 Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
+  - ### 📱  React Native, Flutter, Android<br/>
+  - ### 💨 Django, Golang<br/>
+  - ### ✨ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify<br/>
+  - ### ⚙  Firebase, Supabase, MongoDB, MySQL, PostgreSQL<br/>
 </div>
 
 <h2>More about my skillset</h2>
