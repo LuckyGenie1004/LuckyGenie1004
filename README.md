@@ -1,19 +1,16 @@
 # Your Go-To Full-Stack Developer - JS/TS/.NET/Golang/Python
 
-<div>
+## Hello Everyone, welcome to my profile. I am a Full-Stack Developer focused on JS/TS/.NET/Python/Golang.
 
-## Hello Everyone, welcome to my profile. I am Full-Stack Developer focused on JS/TS/.NET/Python/Golang.<br/>
- 
-  - ### ✔ Desktop App, Blazor MAUI<br/>
-  - ### ✔ React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), 
-  - ### ✔ Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
-  - ### ✔ React Native, Flutter, Android<br/>
-  - ### ✔ Django, Golang<br/>
-  - ### ✔ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify<br/>
-  - ### ✔ Firebase, Supabase, MongoDB, MySQL, PostgreSQL<br/>
-</div>
+-  ![Desktop App](https://img.shields.io/badge/Desktop%20App-Blazor%20MAUI-orange)
+-  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green)
+-  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue)
+-  ![React Native](https://img.shields.io/badge/React%20Native-Flutter%20-red)
+-  ![Django](https://img.shields.io/badge/Django-Golang-purple)
+-  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Material%20UI%20-yellow)
+-  ![Databases](https://img.shields.io/badge/Databases-Firebase%2C%20Supabase%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
 
-## <center>I am not looking for opportunity. I am your opportunity.</center><br/>
+## I am not looking for opportunity. I am your opportunity.
 
 <h2>More about my skillset</h2>
 
