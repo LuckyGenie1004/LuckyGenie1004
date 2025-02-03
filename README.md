@@ -1,6 +1,6 @@
 # Your Go-To Full-Stack Developer - JS/TS/.NET/Golang/Python
 
-## Hello Everyone, welcome to my profile. I am a Full-Stack Developer focused on JS/TS/.NET/Python/Golang.
+## Hello Everyone, Welcome to my profile. 
 
 -  ![Desktop App](https://img.shields.io/badge/Desktop%20App-Blazor%20MAUI-orange)
 -  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green)
