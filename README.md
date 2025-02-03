@@ -2,11 +2,11 @@
 
 <div>
 # I am Full-Stack Developer focused on JS/TS/Python/.NET skills is shown in my Title. I am not looking for opportunity. I am your opportunity. Anytime I am available to start immediately.
-  - 🔥 Desktop App, Blazor MAUI
-  - 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe
-  - 📱 React Native, Flutter, Android | Django
-  - ✨ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify
-  - ⚙ Firebase, Supabase, MongoDB, MySQL, PostgreSQL
+  - 🔥 Desktop App, Blazor MAUI<br/>
+  - 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
+  - 📱 React Native, Flutter, Android | Django<br/>
+  - ✨ Tailwind CSS/Material UI/Bootstrap/Radix UI/ANTD, Vercel, Netlify<br/>
+  - ⚙ Firebase, Supabase, MongoDB, MySQL, PostgreSQL<br/>
 </div>
 
 <h2>More about my skillset</h2>
