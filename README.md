@@ -1,8 +1,7 @@
-# Your Go-To Full-Stack Developer - Javascript/Typescript/Python/.NET
+# Your Go-To Full-Stack Developer - JS/TS/.NET/Golang/Python
 
 <div>
-## I am Full-Stack Developer focused on JS/TS/.NET/Python/Golang/ skills. I am not looking for opportunity. I am your opportunity. Anytime I am available to start immediately.<br/>
-  
+ 
   - ### 🔥  Desktop App, Blazor MAUI<br/>
   - ### 💦 React(MERN, Next.js), Vue(MEVN, Nuxt.js), Angular(MEAN), 
   - ### 🎆 Headless CMS(Website, E-commerce)/Svelte/Payload CMS/Stripe<br/>
