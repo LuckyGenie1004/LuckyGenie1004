@@ -1,11 +1,10 @@
-# Your Go-To Full-Stack Developer - JS/TS/.NET/Golang/Python
+# Your Go-To Full-Stack Developer - React Native | JS/TS/Python
 
 ## Hello Everyone, Welcome to my profile. 
 
--  ![Desktop App](https://img.shields.io/badge/Desktop%20App-Blazor%20MAUI-orange)
+-  ![React Native](https://img.shields.io/badge/React%20Native-Flutter%20-red)
 -  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green)
 -  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue)
--  ![React Native](https://img.shields.io/badge/React%20Native-Flutter%20-red)
 -  ![Django](https://img.shields.io/badge/Django-Golang-purple)
 -  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Material%20UI%20-yellow)
 -  ![Databases](https://img.shields.io/badge/Databases-Firebase%2C%20Supabase%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
