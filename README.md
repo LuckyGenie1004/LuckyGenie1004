@@ -5,7 +5,7 @@
 -  ![React Native](https://img.shields.io/badge/React%20Native-Flutter%20-red)
 -  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green)
 -  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue)
--  ![Django](https://img.shields.io/badge/Django-HeadlessCMS-purple)
+-  ![Django](https://img.shields.io/badge/Django-purple)
 -  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Material%20UI%20-yellow)
 -  ![Databases](https://img.shields.io/badge/Databases-Supabase%2C%20Firebase%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
 
