@@ -1,4 +1,4 @@
-# Your Go-To Senior Full-Stack Web & Mobile Developer(JS/TS/Python) - React/Next.js | React Native/Ionic/Flutter | Headless CMS | Django | Web3
+# Senior Full-Stack Web & Mobile Developer(JS/TS/Python) - React/Next.js | React Native/Ionic/Flutter | Headless CMS | Django | Web3
 
 ## Hello Everyone, Welcome to my profile. 
 
