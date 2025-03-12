@@ -1,4 +1,4 @@
-# Your Go-To Full-Stack Developer - React Native | JS/TS/Python
+# Your Go-To Full-Stack Developer - JS/TS/Python | React/Next.js | Ionic/Flutter/React Native | Headless CMS | Django | Web3
 
 ## Hello Everyone, Welcome to my profile. 
 
