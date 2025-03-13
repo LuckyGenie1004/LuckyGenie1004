@@ -7,7 +7,7 @@
 -  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue)
 -  ![Django](https://img.shields.io/badge/Django-Flask-purple)
 -  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Bootstrap%2C%20ANTD%2C%20Material%20UI%20-yellow)
--  ![Databases](https://img.shields.io/badge/Databases-Supabase%2C%20Firebase%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
+-  ![Databases](https://img.shields.io/badge/Databases-Supabase%2C%20Firebase%2C%20Prisma%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
 
 ## I am not looking for opportunity. I am your opportunity.
 
